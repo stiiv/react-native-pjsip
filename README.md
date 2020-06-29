@@ -12,8 +12,8 @@ A [PJSIP](http://www.pjsip.org/) module for React Native.
 
 ## Installation
 
-- [iOS](https://github.com/datso/react-native-pjsip/blob/master/docs/installation_ios.md)
-- [Android](https://github.com/datso/react-native-pjsip/blob/master/docs/installation_android.md)
+- [iOS](https://github.com/florindumitru/react-native-sip/blob/master/docs/installation_ios.md)
+- [Android](https://github.com/florindumitru/react-native-sip/blob/master/docs/installation_android.md)
 
 ## Usage
 
